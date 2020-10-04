@@ -1,6 +1,6 @@
-const ghpages = require("gh-pages");
+import { publish } from "gh-pages";
 
-ghpages.publish(
+publish(
   "__sapper__/export",
   {
     branch: "master",
