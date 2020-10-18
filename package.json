@@ -62,5 +62,6 @@
   "bugs": {
     "url": "https://github.com/ZuperZee/zuperzee.github.io/issues"
   },
-  "homepage": "https://github.com/ZuperZee/zuperzee.github.io#readme"
+  "homepage": "https://github.com/ZuperZee/zuperzee.github.io#readme",
+  "author": "ZuperZee"
 }
